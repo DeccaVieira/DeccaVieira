@@ -1,6 +1,8 @@
 ### Olá, me chamo Decca! Formada em informática para Negócios, atualmente me aperfeiçoando e desenvolvendo algumas aplicações em Js, Ts, React e Node.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-vieira-gomes/)
+Link do meu Linkedin: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-vieira-gomes/)
+
+Vamos nos conectar? 
 
 ![Decca's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeccaVieira&show_icons=true&theme=radical)
 
