@@ -1,3 +1,5 @@
+
+
 ### Hi there! 🤙: 
 ### I'M Decca Vieira.
 ### I live in 🇧🇷!
@@ -8,6 +10,7 @@
 
 
 ![Decca's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeccaVieira&show_icons=true&theme=radical)
+
 
 ## My Skills
 
